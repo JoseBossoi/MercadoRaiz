@@ -62,3 +62,19 @@ O objetivo não é substituir intermediários, mas **criar um novo mercado híbr
 ### 6. Conclusão
 
 O **MercadoRaiz** representa uma inovação no comércio local e regional, unindo tecnologia, sustentabilidade e impacto social. Ao promover a produção próxima ao consumo, valorizar produtores locais e oferecer alimentos e produtos de qualidade a preços justos, o projeto contribui para o **desenvolvimento econômico regional, a segurança alimentar e o fortalecimento de comunidades sustentáveis**.
+
+
+1.1 Quais problemas sua startup irá resolver?
+1. No Norte e Centro-Oeste do Brasil, pequenos e médios produtores familiares de produtos frescos e perecíveis (hortifrutigranjeiros, hortaliças, laticínios e charcutaria), em razão da quase inexistência de canais tecnológicos de venda direta, enfrentam dependência de intermediários varejistas com alto poder de barganha, que comprimem as margens do produtor e elevam o preço final ao consumidor, restringindo o acesso a alimentos de alto valor nutricional por parte de famílias de menor renda.
+
+2. Diante da inviabilidade econômica, muitos produtores arrendam ou vendem suas terras ou migram para a produção de commodities agrícolas (algodão, soja e milho), atividades que costumam exigir maior uso de defensivos e pressionam o meio ambiente.
+
+3. Como resultado desse cenário de desestímulo à produção local e regional de alimentos in natura, observam-se:
+
+* O uso de cadeias logísticas fragmentadas e distantes dos centros de consumo, com alto custo de frete e altas perdas de produção por transporte e armazenagem prolongados, o que aumenta ainda mais os preços ao consumidor final;
+* A subvalorização do papel socioeconômico da agricultura familiar, que gera emprego e renda locais, mas cuja relevância para a arrecadação tributária estadual e para a difusão de benefícios sociais no território é subestimada, quando comparada ao modelo de agricultura de exportação.
+
+4. Pequenos produtores rurais têm baixo acesso a tecnologias e serviços críticos, hoje já disponíveis a grandes grupos agrícolas, como softwares de gestão e automação agrícola, agricultura de precisão, sensoriamento remoto e inteligência artificial, além de suporte contábil, jurídico e de marketing. A alta sazonalidade da produção e a falta de dados estatísticos sobre a produção de alimentos frescos e sobre o clima também representam entraves ao financiamento e à disponibilização de seguro rural a esse grupo.
+
+**Resultado sistêmico:** um descompasso estrutural entre quem produz e quem consome — produtores com baixa rentabilidade e alto risco e consumidores com preços elevados e oferta instável de alimentos frescos, rastreáveis e de qualidade.
+
