@@ -1,27 +1,54 @@
 
 
-## **Sumário**
+# Personas Primárias e Validação de Problemas — Projeto MercadoRaiz
+### Startup F2C (Farmer/Factor-to-Consumer) – Região: Sinop–MT / Amazônia Legal
 
-1. [Personas Primárias (Producer Personas)](#personas-primárias-producer-personas--mercadoraiz-personas-primárias-producer-personas)
-2. [Persona 1 – Dona Marlene, produtora de alimentos artesanais](#-persona-1--dona-marlene-produtora-de-alimentos-artesanais)  
-3. [Persona 2 – Seu Antônio, horticultor familiar de Sinop–MT](#-persona-2--seu-antônio-horticultor-familiar-de-sinopmt)  
-4. [Persona 3 – Neide, presidente da Cooperativa Flor do Campo](#-persona-3--neide-presidente-da-cooperativa-flor-do-campo)  
-5. [Persona 4 – Lucas, jovem produtor de hortifrúti e inovação rural](#-persona-4--lucas-jovem-produtor-de-hortifrúti-e-inovação-rural)  
-6. [Persona 5 – Rogério, microempreendedor de charcutaria artesanal](#-persona-5--rogério-microempreendedor-de-charcutaria-artesanal)  
-7. [Persona 6 – Cláudia, produtora agroecológica e empreendedora social](#-persona-6--cláudia-produtora-agroecológica-e-empreendedora-social)  
-8. [Persona 7 – Seu Raimundo, artesão de produtos da floresta](#-persona-7--seu-raimundo-artesão-de-produtos-da-floresta)  
-9. [Síntese das Personas Primárias](#-síntese-das-personas-primárias)  
-10. [Conclusão](#-conclusão)
-11. 
-
-
-
-# Personas Primárias (Producer Personas) — MercadoRaiz
-### Projeto: Startup F2C (Farmer/Factor-to-Consumer)
-### Região: Sinop – MT / Amazônia Legal
 ---
 
-## 🧑‍🌾 Persona 1 – Dona Marlene, produtora de alimentos artesanais
+## 📚 Sumário
+
+1. [Introdução](#1-introdução)  
+2. [Personas Primárias (Producer Personas)](#2-personas-primárias-producer-personas)  
+   - [2.1 Dona Marlene — Produtora de Alimentos Artesanais](#21-dona-marlene--produtora-de-alimentos-artesanais)  
+   - [2.2 Seu Antônio — Horticultor Familiar de Sinop–MT](#22-seu-antônio--horticultor-familiar-de-sinopmt)  
+   - [2.3 Neide — Presidente da Cooperativa Flor do Campo](#23-neide--presidente-da-cooperativa-flor-do-campo)  
+   - [2.4 Lucas — Jovem Produtor e Inovador Rural](#24-lucas--jovem-produtor-e-inovador-rural)  
+   - [2.5 Rogério — Microempreendedor de Charcutaria Artesanal](#25-rogério--microempreendedor-de-charcutaria-artesanal)  
+   - [2.6 Cláudia — Produtora Agroecológica e Empreendedora Social](#26-cláudia--produtora-agroecológica-e-empreendedora-social)  
+   - [2.7 Seu Raimundo — Artesão de Produtos da Floresta](#27-seu-raimundo--artesão-de-produtos-da-floresta)  
+3. [Síntese das Personas Primárias](#3-síntese-das-personas-primárias)  
+4. [Entrevistas Fictícias (AI Responses)](#4-entrevistas-fictícias-ai-responses)  
+   - [4.1 Entrevista com Seu Antônio](#41-entrevista-com-seu-antônio)  
+   - [4.2 Entrevista com Neide](#42-entrevista-com-neide)  
+   - [4.3 Entrevista com Lucas](#43-entrevista-com-lucas)  
+   - [4.4 Entrevista com Rogério](#44-entrevista-com-rogério)  
+   - [4.5 Entrevista com Cláudia](#45-entrevista-com-cláudia)  
+   - [4.6 Entrevista com Seu Raimundo](#46-entrevista-com-seu-raimundo)  
+5. [Tabela de Validação de Problema — Fase Descoberta de Cliente](#5-tabela-de-validação-de-problema--fase-descoberta-de-cliente)  
+6. [Síntese e Interpretação dos Resultados](#6-síntese-e-interpretação-dos-resultados)  
+   - [6.1 Eixos Principais de Dor e Oportunidade](#61-eixos-principais-de-dor-e-oportunidade)  
+   - [6.2 Avaliação e Redefinição da Declaração de Problema](#62-avaliação-e-redefinição-da-declaração-de-problema)  
+   - [6.3 Ajuste dos Segmentos de Clientes-Alvo](#63-ajuste-dos-segmentos-de-clientes-alvo)  
+   - [6.4 Revisão das Personas (versão consolidada)](#64-revisão-das-personas-versão-consolidada)  
+7. [Conclusão Estratégica e Mapa de Personas](#7-conclusão-estratégica-e-mapa-de-personas)  
+8. [Metadados do Documento](#8-metadados-do-documento)
+
+---
+
+## 1. Introdução
+
+Este documento apresenta a **estrutura de personas primárias** do projeto **MercadoRaiz**, desenvolvido dentro do contexto da startup **F2C (Farmer/Factor-to-Consumer)**.  
+
+O objetivo é consolidar as informações de campo, entrevistas e análises validadas com produtores, cooperativas e artesãos da **região de Sinop–MT e Amazônia Legal**, de modo a subsidiar decisões estratégicas no **design da solução digital**, validação de problema e construção do **produto mínimo viável (MVP)**.
+
+---
+
+## 2. Personas Primárias (Producer Personas)
+
+
+
+
+### 2.1 Dona Marlene — Produtora de Alimentos Artesanais
 **Idade:** 47 anos  
 **Gênero:** Feminino  
 **Localização:** Zona rural de Sinop–MT  
@@ -30,23 +57,23 @@
 **Ocupação:** Produtora rural e gestora de pequena agroindústria familiar  
 **Indústria:** Laticínios e derivados artesanais  
 
-### Contexto
+***Contexto***
 Vive com o marido e o filho em pequena propriedade rural. Produz queijos e manteigas artesanais de alta qualidade, vendendo em feiras e via WhatsApp. Enfrenta barreiras logísticas e tecnológicas.
 
-### Desafios
+***Desafios***
 - Falta de canais diretos de venda.  
 - Custos altos de transporte e armazenamento.  
 - Pouco acesso a crédito e ferramentas digitais.  
 
-### Necessidades
+***Necessidades***
 Vender direto ao consumidor, ampliar renda, acessar crédito e reduzir perdas logísticas.
 
-### Citação
+***Citação***
 > “Meus produtos são bons, o pessoal gosta, mas o difícil é fazer chegar até quem quer comprar.”
 
 ---
 
-## 👨‍🌾 Persona 2 – Seu Antônio, horticultor familiar de Sinop–MT
+### 2.2 Seu Antônio — Horticultor Familiar de Sinop–MT
 **Idade:** 54 anos  
 **Gênero:** Masculino  
 **Localização:** Zona periurbana de Sinop–MT  
@@ -71,7 +98,7 @@ Previsibilidade de demanda, gestão simples, logística acessível e acesso a cr
 
 ---
 
-## 👩‍🌾 Persona 3 – Neide, presidente da Cooperativa Flor do Campo
+### 2.3 Neide — Presidente da Cooperativa Flor do Campo
 **Idade:** 42 anos  
 **Gênero:** Feminino  
 **Localização:** Santa Carmem–MT  
@@ -96,7 +123,7 @@ Gestão digital, identidade de marca, acesso a crédito e ampliação de mercado
 
 ---
 
-## 👨‍💻 Persona 4 – Lucas, jovem produtor de hortifrúti e inovação rural
+### 2.4 Lucas — Jovem Produtor e Inovador Rural
 **Idade:** 27 anos  
 **Gênero:** Masculino  
 **Localização:** Vera–MT  
@@ -121,7 +148,7 @@ Soluções digitais simples, entregas curtas, gestão eficiente e visibilidade d
 
 ---
 
-## 👨‍🏭 Persona 5 – Rogério, microempreendedor de charcutaria artesanal
+### 2.5 Rogério — Microempreendedor de Charcutaria Artesanal
 **Idade:** 39 anos  
 **Gênero:** Masculino  
 **Localização:** Sinop–MT (zona periurbana)  
@@ -146,7 +173,7 @@ Plataforma regional de vendas, marketing digital e rede de produtores premium.
 
 ---
 
-## 👩‍🌾 Persona 6 – Cláudia, produtora agroecológica e empreendedora social
+### 2.6 Cláudia — Produtora Agroecológica e Empreendedora Social
 **Idade:** 44 anos  
 **Gênero:** Feminino  
 **Localização:** Cláudia–MT  
@@ -171,7 +198,7 @@ Canal direto de vendas, transporte sustentável e certificação ambiental acess
 
 ---
 
-## 🪵 Persona 7 – Seu Raimundo, artesão de produtos da floresta
+### 2.7 Seu Raimundo — Artesão de Produtos da Floresta
 **Idade:** 51 anos  
 **Gênero:** Masculino  
 **Localização:** Itaúba–MT (Amazônia Legal)  
@@ -196,7 +223,7 @@ Plataforma de vendas sustentáveis, suporte logístico e marketing cultural.
 
 ---
 
-# 📊 Síntese das Personas Primárias
+## 3. Síntese das Personas Primárias
 
 | Persona | Perfil | Localização | Foco Principal | Desafio Central |
 |----------|---------|--------------|----------------|----------------|
@@ -216,9 +243,9 @@ Todos compartilham o mesmo desafio: **acesso limitado a canais diretos de comerc
 
 ---
 
-# Entrevistas Fictícias (AI responses)
+## 4. Entrevistas Fictícias (AI Responses)
 
-## 1. Entrevista com Seu Antônio — Horticultor Familiar de Sinop–MT
+### 4.1 Entrevista com Seu Antônio
 
 **Idade:** 54 anos  
 **Gênero:** Masculino  
@@ -304,7 +331,7 @@ Seu Antônio demonstra profundo conhecimento prático sobre a produção e comer
 
 > “A gente planta, colhe e trabalha duro, mas o que falta é saber pra quem vender e quanto vale o que a gente faz.”
 
-## 2. Entrevista com Neide – Presidente da Cooperativa Flor do Campo  
+### 4.2 Entrevista com Neide 
 **Local:** Santa Carmem – MT  
 **Idade:** 42 anos  
 **Formação:** Ensino médio completo; cursos de cooperativismo  
@@ -410,7 +437,7 @@ Participa de feiras e busca **digitalizar a cooperativa**.
 > **Citação principal:**  
 > “Se a gente tivesse um sistema que mostrasse nossos produtos e entregasse pra quem quer comprar, ninguém precisaria depender de atravessador.”
 
-## 3. Entrevista com Lucas – Jovem Produtor de Hortifrúti e Inovação Rural  
+### 4.3 Entrevista com Lucas 
 **Local:** Vera – MT  
 **Idade:** 27 anos  
 **Formação:** Técnico em Agropecuária, cursando Agronomia  
@@ -511,7 +538,7 @@ Aí sim seria uma ferramenta que valeria a pena usar.
 Lucas representa o perfil do novo produtor rural conectado, com mentalidade empreendedora e foco em eficiência.  
 Busca tecnologia acessível, integração logística e canais digitais que valorizem a produção local.
 
-## 4.  Entrevista com Rogério — Microempreendedor de Charcutaria Artesanal  
+### 4.4 Entrevista com Rogério
 **Localização:** Sinop–MT (zona periurbana)  
 **Idade:** 39 anos  
 **Formação:** Técnico em Alimentos (SENAI)  
@@ -614,7 +641,7 @@ E, claro, **custo acessível**, porque microprodutor não tem grana pra sistema 
 **Data:** _(insira aqui a data da entrevista)_  
 **Local:** Sinop–MT  
 
-## 6. Entrevista com Cláudia — Produtora Agroecológica e Empreendedora Social  
+### 4.5 Entrevista com Cláudia
 **Local:** Cláudia – MT  
 **Idade:** 44 anos  
 **Formação:** Pedagogia; cursos em Agroecologia e Economia Solidária  
@@ -711,7 +738,7 @@ E se fosse algo coletivo, que unisse vários produtores, seria ainda melhor — 
 **Entrevistador:** José  
 **Data:** _(inserir data da entrevista)_  
 
-## 7. Entrevista com Seu Raimundo  
+### 4.6 Entrevista com Seu Raimundo  
 **Idade:** 51 anos  
 **Localização:** Itaúba – MT (Amazônia Legal)  
 **Ocupação:** Artesão de produtos regionais sustentáveis  
@@ -794,4 +821,142 @@ E se ainda mostrasse de onde vem o material, com selo ou história da peça, ser
 Seu Raimundo acredita que o reconhecimento do trabalho artesanal e o acesso a ferramentas digitais sustentáveis são essenciais para fortalecer a bioeconomia local e valorizar a cultura amazônica.
 
 
-teste
+## 5. Tabela de Validação de Problema — Fase Descoberta de Cliente
+
+| **Entrevistado(a)** | **Perfil / Local** | **Problema percebido** | **Importância atribuída à solução (1–5)** | **Nível de insatisfação com soluções atuais (1–5)** | **Canais utilizados atualmente** | **Soluções tentadas / barreiras** | **Citação representativa** | **Validação da dor** |
+|----------------------|--------------------|-------------------------|-------------------------------------------|-----------------------------------------------------|------------------------------|----------------------------------|----------------------------------|----------------------------|
+| **Seu Antônio** | Horticultor familiar / Sinop–MT | Dificuldade em vender toda a produção e organizar logística | 5️⃣ – Muito importante | 5️⃣ – Muito insatisfeito | Feira, atravessadores, WhatsApp | Cooperativa ineficiente; falta previsibilidade | “Se tivesse um sistema que garantisse comprador certo, dava pra planejar melhor.” | ✅ Problema validado |
+| **Neide** | Presidente de cooperativa / Santa Carmem–MT | Falta de gestão digital e logística integrada para vendas | 5️⃣ | 5️⃣ | Feiras, WhatsApp, cooperativa | Falta de sistema integrado, padronização e marketing | “Se tivesse um sistema que mostrasse nossos produtos e entregasse pra quem quer comprar, seria uma benção.” | ✅ Problema validado |
+| **Lucas** | Jovem produtor / Vera–MT | Falta de integração entre venda, pagamento e entrega | 5️⃣ | 5️⃣ | Cestas por assinatura, WhatsApp, feira | Planilhas manuais, falta de rota e controle de estoque | “A gente tem tecnologia pra plantar, mas não pra vender.” | ✅ Problema validado |
+| **Rogério** | Charcuteiro artesanal / Sinop–MT | Falta de gestão e logística refrigerada integrada | 5️⃣ | 5️⃣ | Feira, WhatsApp, Instagram | Falta de visibilidade digital e sistema acessível | “Se tivesse uma plataforma que juntasse pedido, estoque e entrega, eu conseguiria produzir mais.” | ✅ Problema validado |
+| **Cláudia** | Produtora agroecológica / Cláudia–MT | Dificuldade de entrega e alcance de clientes | 5️⃣ | 4️⃣ – Parcialmente insatisfeita | Feira, WhatsApp, programas públicos | Falta de transporte compartilhado e divulgação | “Se tivesse uma forma fácil de vender direto pro consumidor, aumentaria a renda e diminuiria o desperdício.” | ✅ Problema validado |
+| **Seu Raimundo** | Artesão sustentável / Itaúba–MT | Dificuldade de venda e entrega online (bioeconomia) | 5️⃣ | 5️⃣ | Feira, WhatsApp | Frete caro, falta de canal confiável | “Se tivesse um sistema que mostrasse meu trabalho e ajudasse na entrega, ajudava demais.” | ✅ Problema validado |
+
+---
+
+## 6. Síntese e Interpretação dos Resultados
+| **Indicador** | **Resultado** |
+|----------------|----------------|
+| Total de entrevistados | 6 |
+| Consideram muito importante resolver o problema | **6 / 6 (100%)** |
+| Muito insatisfeitos com soluções atuais | **5 / 6 (83%)** |
+| Problema validado (impacto real e recorrente) | **6 / 6 (100%)** |
+| Principais dores transversais | Logística, previsibilidade de vendas, gestão digital, visibilidade de produto, burocracia cooperativa |
+| Canais atuais mais usados | Feiras locais e WhatsApp |
+| Funcionalidades mais desejadas | Plataforma simples (mobile), vitrine de produtos, integração com entrega e pagamento, controle de estoque e preço |
+
+---
+
+## 📊 Interpretação Geral
+
+O problema é **recorrente e validado** entre perfis diversos (agricultores, cooperativas, artesãos).  
+Há **forte convergência** em torno de **falta de previsibilidade, logística compartilhada e digitalização acessível**.  
+O grau de **insatisfação e urgência** confirma **fit problem/solution** inicial para o modelo **F2C regional** proposto pela **MercadoRaiz**.
+
+---
+
+
+### 6.1 Eixos Principais de Dor e Oportunidade
+As seis entrevistas revelaram padrões fortes e convergentes em torno de cinco grandes eixos de dor e oportunidade:
+
+### **1. Logística e Entrega**
+- Dificuldade generalizada em organizar transporte eficiente e acessível, especialmente para produtos perecíveis.  
+- Falta de infraestrutura compartilhada (veículos, rotas otimizadas, frete refrigerado).  
+- Perda direta de receita devido a produtos que não chegam ao consumidor a tempo.  
+
+> “A gente perde produto porque não consegue entregar a tempo.” — *Cláudia*  
+> “Frete refrigerado é caro e difícil.” — *Rogério*
+
+---
+
+### **2. Comercialização e Canais de Venda**
+- Dependência de atravessadores, feiras e WhatsApp — canais frágeis, informais e imprevisíveis.  
+- Ausência de plataforma digital regional que conecte produtores diretamente aos consumidores.  
+- Demanda latente por vitrine digital confiável, com pagamento integrado e logística simplificada.  
+
+> “Se tivesse um sistema que garantisse comprador certo, dava pra planejar melhor.” — *Seu Antônio*  
+> “A gente tem tecnologia pra plantar, mas não pra vender.” — *Lucas*
+
+---
+
+### **3. Gestão e Padronização**
+- Falta de controle de estoque, pedidos e precificação; grande parte das anotações ainda é manual.  
+- Cooperativas e associações carecem de gestão digital e processos padronizados.  
+- Interesse em soluções simples, de baixo custo e intuitivas, preferencialmente via celular.  
+
+> “Na cooperativa falta sistema pra controlar estoque e preço em tempo real.” — *Neide*  
+> “Sem sistema integrado, anoto tudo na mão.” — *Rogério*
+
+---
+
+### **4. Perdas e Desperdício**
+- Problema grave e recorrente, emocionalmente sentido por todos os entrevistados.  
+- Sobra de produção gera perdas econômicas e psicológicas, afetando autoestima produtiva e sustentabilidade.  
+
+> “Dá uma dor no coração ver alimento bom se perdendo.” — *Cláudia*  
+> “A gente vê as verduras murchando e pensa no dinheiro indo embora.” — *Seu Antônio*
+
+---
+
+### **5. Identidade e Valorização Regional**
+- Produtores desejam reconhecimento local e valorização do produto artesanal ou sustentável.  
+- Buscam visibilidade digital e formas de contar sua história para agregar valor.  
+
+> “Falta só um jeito de mostrar pro mundo o valor disso.” — *Seu Raimundo*  
+> “Se pudesse divulgar o produtor junto do produto, seria perfeito.” — *Rogério*
+
+---
+
+### 6.2 Avaliação e Redefinição da Declaração de Problema
+> **Produtores familiares, microindústrias e artesãos do Centro-Oeste enfrentam perdas e instabilidade de renda por falta de uma infraestrutura integrada e acessível para vender, gerenciar e entregar seus produtos de forma eficiente e direta ao consumidor.**
+
+**Justificativas:**
+- Amplia o escopo (inclui artesãos e agroindústrias).  
+- Destaca integração entre venda, gestão e logística.  
+- Comunica urgência e impacto socioeconômico.  
+- Reforça acessibilidade e inclusão digital.
+
+---
+
+
+### 6.3 Ajuste dos Segmentos de Clientes-Alvo
+| **Segmento** | **Situação Atual** | **Ajuste Recomendado** | **Observações Estratégicas** |
+|---------------|--------------------|-------------------------|-------------------------------|
+| **Produtores familiares rurais** | Mantido | ✅ Principal segmento primário | Alta adesão potencial; foco em hortifrutigranjeiros, laticínios e agroecologia. |
+| **Cooperativas e associações rurais** | Mantido | ✅ Segmento estratégico B2B2C | Precisam de digitalização e gestão; facilitam entrada em programas públicos (PAA, PNAE). |
+| **Microindústrias artesanais (F2C)** | Novo foco | 🔼 Inserir formalmente como segmento complementar | Charcutaria, panificação, queijos, conservas; produtos de valor agregado. |
+| **Artesãos e empreendedores da bioeconomia** | Ampliar | 🪶 Segmento emergente | Produtos sustentáveis regionais com potencial de branding e exportação. |
+| **Consumidores urbanos regionais** | Mantido | ✅ Público final (B2C) | Famílias que buscam alimentos locais, sustentáveis e de qualidade. |
+
+---
+
+### 6.4 Revisão das Personas (versão consolidada)
+
+| **Persona** | **Perfil** | **Objetivos** | **Principais Dores** | **Frase que Resume** |
+|--------------|-------------|----------------|----------------------|----------------------|
+| **Seu Antônio — O Produtor Tradicional** | Agricultor familiar de hortaliças (Sinop–MT) | Vender com estabilidade e menos perdas | Incerteza de demanda e logística | “A gente planta, mas não sabe pra quem vai vender.” |
+| **Neide — A Líder Cooperativista** | Presidenta de cooperativa (Santa Carmem–MT) | Digitalizar e fortalecer o grupo | Falta de gestão e logística unificada | “Falta um sistema que organize tudo e conecte com quem compra.” |
+| **Lucas — O Jovem Inovador** | Produtor digital (Vera–MT) | Escalar produção e otimizar entregas | Falta integração entre venda, rota e pagamento | “Tem tecnologia pra plantar, mas não pra vender.” |
+| **Rogério — O Artesão Gourmet** | Charcuteiro artesanal (Sinop–MT) | Expandir mantendo qualidade | Falta de gestão e frete refrigerado | “Meu produto é bom, falta um canal que valorize isso.” |
+| **Cláudia — A Produtora Agroecológica** | Agricultora orgânica (Cláudia–MT) | Vender com propósito e menos desperdício | Transporte e divulgação limitada | “Se pudesse vender fácil e direto, nada se perderia.” |
+| **Seu Raimundo — O Artesão da Floresta** | Artesão sustentável (Itaúba–MT) | Mostrar valor cultural e ambiental do trabalho | Falta de visibilidade e canal confiável | “O que faço vem da floresta, falta só mostrar pro mundo.” |
+
+---
+
+## 7. Conclusão Estratégica e Mapa de Personas
+- As entrevistas **validam fortemente o problema** e confirmam o **fit inicial com o modelo F2C regional**.  
+- A **nova declaração de problema** amplia o impacto e alinha-se às evidências qualitativas.  
+- A **segmentação revisada** integra produtores, artesãos e microindústrias, fortalecendo o ecossistema local.  
+- As **personas ajustadas** servirão como base para o design do produto e roadmap do **MercadoRaiz App & Hub**.
+
+
+## 8. Metadados do Documento
+
+**Projeto:** MercadoRaiz  
+**Autor:** José  
+**Versão:** 1.0  
+**Data:** Outubro de 2025  
+**Formato:** Documento auxiliar (.md) vinculado ao `README.md` principal do repositório  
+**Finalidade:** Consolidar personas, entrevistas e análise de validação de problema na Fase Descoberta de Cliente.
+
+---
