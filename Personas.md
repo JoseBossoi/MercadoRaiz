@@ -794,3 +794,4 @@ E se ainda mostrasse de onde vem o material, com selo ou história da peça, ser
 Seu Raimundo acredita que o reconhecimento do trabalho artesanal e o acesso a ferramentas digitais sustentáveis são essenciais para fortalecer a bioeconomia local e valorizar a cultura amazônica.
 
 
+teste
